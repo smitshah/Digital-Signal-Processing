@@ -1,13 +1,5 @@
 %% Expriment No: 1
 
-%{
-     Name: Smit Shah
-     PRN: 17070123090
-     Batch: EB-2
-
-     Date: 16-07-19
-%}
-
 clc
 clear all
 close all
@@ -72,6 +64,7 @@ xlabel('ny4');
 
     y4 is flipped and delayed by 1.
 %}
+
 
 %% Conclusion
 

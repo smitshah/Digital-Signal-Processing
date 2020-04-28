@@ -1,13 +1,5 @@
 %% Expriment No: 3
 
-%{
-     Name: Smit Shah
-     PRN: 17070123090
-     Batch: EB-2
-
-     Date: 30-07-19
-%}
-
 clc
 clear all
 close all
